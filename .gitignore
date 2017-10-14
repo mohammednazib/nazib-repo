@@ -1,0 +1,5 @@
+#Local Git Ignore
+
+*.tmp
+*.out
+tmp/*
